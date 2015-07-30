@@ -75,6 +75,8 @@ header {
     left: calc(50% - 150px);
     border: 2px solid #fff;
     border-radius: 4px; }
+    header .betainfo h3 {
+      color: #fff; }
   header .betainfo-show {
     display: block; }
 
